@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 .idea/*
 CMakeLists.txt
 cmake-build-debug/*
-=======
+
 # Prerequisites
 *.d
 
@@ -35,4 +34,3 @@ cmake-build-debug/*
 *.exe
 *.out
 *.app
->>>>>>> 6789a0835654535af7637f6a0ae279431571f748
