@@ -12,8 +12,8 @@
  * ========================================================
  */
 
-// Include the functionality to output information to the
-// console window
+// Preprocessor Directive - include the functionality to 
+// output information to the console window
 #include <iostream>
 
 // The main() is the entry point for all C++ applications
